@@ -42,3 +42,11 @@ depois digite os codigos
 @ git push origin master
 
 + agora acesse sua pasta e veja os arquivos
+
+---
+
++ para puxar os arquivos do seu repositorio e atualizar no seu pc
+
+@ git pull origin master
+
++
