@@ -1,0 +1,19 @@
+ + baixar GIT-SCM
+@ https://git-scm.com/download/win
+
+
++ CADA REPOSITORIO É UM CLIENTE
++ baixa repositorio
+
+@ git clone (link)
+
++ criar repositorio
+copiar caminho do diretorio 
+entrar no diretorio pelo cmd
+depois digite os codigos
+
+@ git init 
+@ git add (nome do arquivo)
+
++caso queira adicionar todos os arquivos da pasta usar
+@ git add --all

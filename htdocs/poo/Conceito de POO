@@ -1,0 +1,12 @@
+Estilo de programação 
+	orientado a objeto
+
+class = caixa = importa o que ta dentro = proteje variaveis e funções
+variaveis = atributos =- ganhan novo recursos = guardo informações
+função = metodo = executa atributos 
+encapsulamento = controla acesso 
+
+Objeto = variavel que presenta uma class ou tira uma copia da class
+instancia = objeto = executa objeto
+
+tudo dentro da class = class o que impporta o que ta dentro = atributo(variavel que ganha recursos) e metodo(função que ganha recursos) 
