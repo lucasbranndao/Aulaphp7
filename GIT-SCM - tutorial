@@ -3,8 +3,8 @@
 
 
 + CADA REPOSITORIO É UM CLIENTE
-+ baixa repositorio
 
++ baixa repositorio
 @ git clone (link)
 
 + criar repositorio
@@ -12,8 +12,33 @@ copiar caminho do diretorio
 entrar no diretorio pelo cmd
 depois digite os codigos
 
++ fala que a pasta é uma git
 @ git init 
+
++ adiciona o arquivo a lista de espera para envio
 @ git add (nome do arquivo)
 
-+caso queira adicionar todos os arquivos da pasta usar
++ + caso queira adicionar todos os arquivos da pasta usar
 @ git add --all
+
++ confirmar envio (-m = mensagem precisa de "")
+
+@ git commit-m 
+
++ se der erro de identidade use os comandos
+@ git config --global user.email "you@example.com"
+@ git config --global user.name "Your Name"
+
++ depois repita o commint
++ crie uma conta no GITHUB 
++ crie um repositorio 
++ copia o link do seu repositorio 
++ abra o cmd novamente
++ acesse sua pasta novamente
++ digite o codigo
+@ git remote add origem (link do repositorio))
+
++ agora vamos publicar os arquivos
+@ git push origin master
+
++ agora acesse sua pasta e veja os arquivos
